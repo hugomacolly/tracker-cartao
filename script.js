@@ -5,7 +5,7 @@
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB2i7o6JvVWrkFh24MZJtghKF9ij8lipfk",
+  apiKey: "testekey",
   authDomain: "tracker-cartao.firebaseapp.com",
   projectId: "tracker-cartao",
   storageBucket: "tracker-cartao.firebasestorage.app",
